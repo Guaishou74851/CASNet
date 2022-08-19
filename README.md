@@ -27,7 +27,7 @@ conda env create -f environment.yml
 
 ## Test
 
-Run the following script:
+Download the model checkpoint file [net_params_320.pkl](https://drive.google.com/file/d/193UF6DoRuWYTuX_PZiR6RTIqBxyuE5e9/view?usp=sharing) and put it into `./model/layer_13_block_32`, then run:
 
 ```shell
 python test.py --testset_name=Set11
@@ -45,6 +45,8 @@ Download the preprocessed data file [Training_Data_size128_CS_T91andTrain400.mat
 ```
 python train.py
 ```
+
+The log and model files will be in `./log` and `./model`, respectively.
 
 ## Results
 
