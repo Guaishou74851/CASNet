@@ -46,6 +46,10 @@ model.load_state_dict(torch.load('%s/net_params_%d.pkl' % (model_dir, epoch), ma
 test_image_paths = glob.glob(os.path.join(args.data_dir, args.testset_name) + '/*')
 test_image_num = len(test_image_paths)
 
+output_dir = os.path.join(args.result_dir, args.testset_name)
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
 def test(cs_ratio, epoch_num, rand_modes):
     with torch.no_grad():
         PSNR_list, SSIM_list = [], []
