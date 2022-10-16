@@ -2,6 +2,8 @@
 
 [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9854112/) [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.09313)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/content-aware-scalable-deep-compressed/image-compressed-sensing-on-set11)](https://paperswithcode.com/sota/image-compressed-sensing-on-set11?p=content-aware-scalable-deep-compressed) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/content-aware-scalable-deep-compressed/image-compressed-sensing-on-cbsd68)](https://paperswithcode.com/sota/image-compressed-sensing-on-cbsd68?p=content-aware-scalable-deep-compressed)
+
 [Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ) and [Jian Zhang](https://jianzhang.tech/)
 
 *School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School*
