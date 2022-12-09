@@ -63,8 +63,7 @@ If you find the code helpful in your research or work, please cite the following
   title={Content-aware Scalable Deep Compressed Sensing},
   author={Chen, Bin and Zhang, Jian},
   journal={IEEE Transactions on Image Processing},
-  year={2022},
-  publisher={IEEE}
+  year={2022}
 }
 ```
 
