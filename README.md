@@ -1,4 +1,4 @@
-# Content-aware Scalable Deep Compressed Sensing (TIP 2022) [PyTorch]
+# Content-Aware Scalable Deep Compressed Sensing (TIP 2022) [PyTorch]
 
 [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9854112/) [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.09313)
 
