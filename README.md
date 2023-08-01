@@ -58,7 +58,7 @@ If you find the code helpful in your research or work, please cite the following
 
 ```
 @article{chen2022content,
-  title={Content-aware Scalable Deep Compressed Sensing},
+  title={Content-Aware Scalable Deep Compressed Sensing},
   author={Chen, Bin and Zhang, Jian},
   journal={IEEE Transactions on Image Processing},
   volume={31},
