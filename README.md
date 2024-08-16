@@ -4,7 +4,7 @@
 
 [Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ) and [Jian Zhang](https://jianzhang.tech/)
 
-*School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School*
+*School of Electronic and Computer Engineering, Peking University, Shenzhen, China.*
 
 Accepted for publication as a Regular paper in the IEEE Transactions on Image Processing (T-IP).
 
