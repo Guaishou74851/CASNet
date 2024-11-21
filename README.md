@@ -2,9 +2,11 @@
 
 [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9854112/) [![ArXiv](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.09313) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.CASNet)
 
-[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ) and [Jian Zhang](https://jianzhang.tech/)
+[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ) and [Jian Zhang](https://jianzhang.tech/)†
 
 *School of Electronic and Computer Engineering, Peking University, Shenzhen, China.*
+
+† Corresponding author
 
 Accepted for publication as a Regular paper in the IEEE Transactions on Image Processing (T-IP).
 
