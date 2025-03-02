@@ -42,6 +42,8 @@ The recovered results will be in `./test_out`.
 
 The test sets CBSD68, Urban100, and DIV2K are available at https://github.com/Guaishou74851/SCNet/tree/main/data.
 
+For easy comparison, test results of various existing image CS methods are available on [Google Drive](https://drive.google.com/drive/folders/1Lif_7N_bCyILFLac5JcOtJ9cWpGBNVCd) and [PKU Disk](https://disk.pku.edu.cn/link/AA1C2D8A08050744449CBFCAB51A846B2D).
+
 ## Train
 
 Download the preprocessed data file [Training_Data_size128_CS_T91andTrain400.mat](https://drive.google.com/file/d/18ULdi97YLqZXewoqOvdX2ci4nGCZDoku/view?usp=sharing) and put it into `./data`, then run:
