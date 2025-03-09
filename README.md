@@ -10,24 +10,25 @@
 
 Accepted for publication as a Regular paper in the IEEE Transactions on Image Processing (T-IP).
 
+⭐ If CASNet is helpful to you, please star this repo. Thanks! 🤗
 
-## Abstract
+## 📝 Abstract
 
 To more efficiently address image compressed sensing (CS) problems, we present a novel content-aware scalable network dubbed CASNet which collectively achieves adaptive sampling rate allocation, fine granular scalability and high-quality reconstruction. We first adopt a data-driven saliency detector to evaluate the importances of different image regions and propose a saliency-based block ratio aggregation (BRA) strategy for sampling rate allocation. A unified learnable generating matrix is then developed to produce sampling matrix of any CS ratio with an ordered structure. Being equipped with the optimization-inspired recovery subnet guided by saliency information and a multi-block training scheme preventing blocking artifacts, CASNet jointly reconstructs the image blocks sampled at various sampling rates with one single model. To accelerate training convergence and improve network robustness, we propose an SVD-based initialization scheme and a random transformation enhancement (RTE) strategy, which are extensible without introducing extra parameters. All the CASNet components can be combined and learned end-to-end. We further provide a four-stage implementation for evaluation and practical deployments. Experiments demonstrate that CASNet outperforms other CS networks by a large margin, validating the collaboration and mutual supports among its components and strategies. Codes are available at [https://github.com/Guaishou74851/CASNet](https://github.com/Guaishou74851/CASNet).
 
-## Overview
+## 🍭 Overview
 
 Our poster ([high-resolution PDF version](https://drive.google.com/file/d/1unkNsNGFNyknubnKFYbiXZSmLUw_Iu9D/view?usp=sharing)) in the conference of [VALSE 2022](http://valser.org/2022/#/poster):
 
 ![poster](figs/poster.png)
 
-## Environment
+## ⚙ Environment
 
 ```shell
 conda env create -f environment.yml
 ```
 
-## Test
+## ⚡ Test
 
 Download the model checkpoint file [net_params_320.pkl](https://drive.google.com/file/d/193UF6DoRuWYTuX_PZiR6RTIqBxyuE5e9/view?usp=sharing) and put it into `./model/layer_13_block_32`, then run:
 
@@ -44,7 +45,7 @@ The test sets CBSD68, Urban100, and DIV2K are available at https://github.com/Gu
 
 For easy comparison, test results of various existing image CS methods are available on [Google Drive](https://drive.google.com/drive/folders/1Lif_7N_bCyILFLac5JcOtJ9cWpGBNVCd) and [PKU Disk](https://disk.pku.edu.cn/link/AA1C2D8A08050744449CBFCAB51A846B2D).
 
-## Train
+## 🔥 Train
 
 Download the preprocessed data file [Training_Data_size128_CS_T91andTrain400.mat](https://drive.google.com/file/d/18ULdi97YLqZXewoqOvdX2ci4nGCZDoku/view?usp=sharing) and put it into `./data`, then run:
 
@@ -54,11 +55,11 @@ python train.py
 
 The log and model files will be in `./log` and `./model`, respectively.
 
-## Results
+## 😍 Results
 
 ![result](figs/res.png)
 
-## Citation
+## 🎓 Citation
 
 If you find the code helpful in your research or work, please cite the following paper:
 
@@ -73,4 +74,3 @@ If you find the code helpful in your research or work, please cite the following
   publisher={IEEE}
 }
 ```
-
